@@ -1,3 +1,3 @@
 # Distributed Computing And Information Causality
 
-TBD
+Bachelor Thesis of Simon Pfeiffer at the Quantum Computing Group at TU Darmstadt.
